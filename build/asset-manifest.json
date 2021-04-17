@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "./static/css/main.81a3e240.chunk.css",
+    "main.js": "./static/js/main.2580960c.chunk.js",
+    "main.js.map": "./static/js/main.2580960c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.f5257b61.js",
+    "runtime-main.js.map": "./static/js/runtime-main.f5257b61.js.map",
+    "static/js/2.de00f27a.chunk.js": "./static/js/2.de00f27a.chunk.js",
+    "static/js/2.de00f27a.chunk.js.map": "./static/js/2.de00f27a.chunk.js.map",
+    "static/js/3.287ee4b3.chunk.js": "./static/js/3.287ee4b3.chunk.js",
+    "static/js/3.287ee4b3.chunk.js.map": "./static/js/3.287ee4b3.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.81a3e240.chunk.css.map": "./static/css/main.81a3e240.chunk.css.map",
+    "static/js/2.de00f27a.chunk.js.LICENSE.txt": "./static/js/2.de00f27a.chunk.js.LICENSE.txt",
+    "static/media/Scene_19.13f807d3.gif": "./static/media/Scene_19.13f807d3.gif",
+    "static/media/icon_SushiSwap@2x.eea30661.png": "./static/media/icon_SushiSwap@2x.eea30661.png",
+    "static/media/logo.f1738379.png": "./static/media/logo.f1738379.png",
+    "static/media/vodie.mp4": "./static/media/vodie.2da1b5d8.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f5257b61.js",
+    "static/js/2.de00f27a.chunk.js",
+    "static/css/main.81a3e240.chunk.css",
+    "static/js/main.2580960c.chunk.js"
+  ]
+}
