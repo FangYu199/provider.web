@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "./static/css/main.dcf052c7.chunk.css",
-    "main.js": "./static/js/main.394816d7.chunk.js",
-    "main.js.map": "./static/js/main.394816d7.chunk.js.map",
+    "main.css": "./static/css/main.e2db6d1c.chunk.css",
+    "main.js": "./static/js/main.c4854930.chunk.js",
+    "main.js.map": "./static/js/main.c4854930.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.c9290dc2.js",
     "runtime-main.js.map": "./static/js/runtime-main.c9290dc2.js.map",
     "static/js/2.1153ed61.chunk.js": "./static/js/2.1153ed61.chunk.js",
@@ -10,15 +10,15 @@
     "static/js/3.17c458b7.chunk.js": "./static/js/3.17c458b7.chunk.js",
     "static/js/3.17c458b7.chunk.js.map": "./static/js/3.17c458b7.chunk.js.map",
     "index.html": "./index.html",
-    "static/css/main.dcf052c7.chunk.css.map": "./static/css/main.dcf052c7.chunk.css.map",
+    "static/css/main.e2db6d1c.chunk.css.map": "./static/css/main.e2db6d1c.chunk.css.map",
     "static/js/2.1153ed61.chunk.js.LICENSE.txt": "./static/js/2.1153ed61.chunk.js.LICENSE.txt",
     "static/media/Mintlayer_logo_9@2x.21618d5c.png": "./static/media/Mintlayer_logo_9@2x.21618d5c.png",
     "static/media/Nervos_logo_2@2x.82ead706.png": "./static/media/Nervos_logo_2@2x.82ead706.png",
     "static/media/Nsure_logo_5@2x.a331ee72.png": "./static/media/Nsure_logo_5@2x.a331ee72.png",
-    "static/media/Radiccle_logo_3@2x.08430971.png": "./static/media/Radiccle_logo_3@2x.08430971.png",
+    "static/media/Radiccle_logo_3@2x.5ff920fc.png": "./static/media/Radiccle_logo_3@2x.5ff920fc.png",
     "static/media/Ren_logo_4@2x.81557be5.png": "./static/media/Ren_logo_4@2x.81557be5.png",
     "static/media/Vchain_logo_1@2x.f578d293.png": "./static/media/Vchain_logo_1@2x.f578d293.png",
-    "static/media/index.css": "./static/media/background@2x.b30cbe93.png",
+    "static/media/index.css": "./static/media/background@2x.d666ea28.jpg",
     "static/media/hopr_logo_6@2x.5c9d9772.png": "./static/media/hopr_logo_6@2x.5c9d9772.png",
     "static/media/ocean_logo_8@2x.8cc69128.png": "./static/media/ocean_logo_8@2x.8cc69128.png",
     "static/media/polkadot_logo_7@2x.bcd0cd10.png": "./static/media/polkadot_logo_7@2x.bcd0cd10.png",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.c9290dc2.js",
     "static/js/2.1153ed61.chunk.js",
-    "static/css/main.dcf052c7.chunk.css",
-    "static/js/main.394816d7.chunk.js"
+    "static/css/main.e2db6d1c.chunk.css",
+    "static/js/main.c4854930.chunk.js"
   ]
 }
